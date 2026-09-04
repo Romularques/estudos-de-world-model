@@ -1,0 +1,4 @@
+WARNING: There was an error checking the latest version of pip.
+ERROR: Could not install packages due to an OSError: [WinError 5] Acesso negado: 'C:\\Users\\t-gamer\\Documents\\Codex\\2026-09-01\\files-pasted-by-the-user-projeto\\insurance-world-model\\.venv\\Lib\\site-packages\\pandas\\_libs\\algos.cp311-win_amd64.pyd'
+Check the permissions.
+

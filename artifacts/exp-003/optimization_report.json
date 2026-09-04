@@ -1,0 +1,20 @@
+{
+  "experiment_id": "EXP-003",
+  "selection_rule": "rank equally by validation journey accuracy (higher), reward MAE (lower), and next-state RMSE (lower); resolve a tie by journey accuracy",
+  "screening": {
+    "epochs": 4,
+    "candidates": [
+      {"name": "control-l32-equal", "journey_accuracy": 0.88917, "reward_mae": 3.12205, "next_state_rmse": 6.67056},
+      {"name": "latent64-equal", "journey_accuracy": 0.90089, "reward_mae": 3.01284, "next_state_rmse": 6.83579},
+      {"name": "latent64-state2", "journey_accuracy": 0.88872, "reward_mae": 2.95190, "next_state_rmse": 6.60949},
+      {"name": "latent64-reward2", "journey_accuracy": 0.88917, "reward_mae": 2.88238, "next_state_rmse": 6.89424}
+    ]
+  },
+  "confirmation": {
+    "epochs": 8,
+    "candidate": "latent64-equal",
+    "test_metrics": {"journey_accuracy": 0.91083, "reward_mae": 3.08781, "next_state_rmse": 6.74015, "reward_rmse": 5.41553},
+    "baseline_test_metrics": {"journey_accuracy": 0.86961, "reward_mae": 2.84465, "next_state_rmse": 6.80631, "reward_rmse": 5.31359},
+    "decision": "Improves journey accuracy and next-state RMSE, but not reward metrics. Do not declare a full baseline replacement."
+  }
+}

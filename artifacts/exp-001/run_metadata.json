@@ -1,0 +1,22 @@
+{
+  "experiment_id": "EXP-001",
+  "dataset_version": "v0.1",
+  "environment_version": "v0.1",
+  "model_version": "baseline-mlp-v1",
+  "seed": 42,
+  "rows": 120000,
+  "metrics": {
+    "next_state_rmse": 6.963999007343495,
+    "journey_accuracy": 0.8697777777777778,
+    "reward_mae": 2.8525794653226555,
+    "reward_rmse": 5.336962444669944,
+    "mae_age": 1.8496206335491605,
+    "mae_tenure_months": 3.623696582370334,
+    "mae_auto_policy": 0.08448934741483795,
+    "mae_home_policy": 0.10442749179568556,
+    "mae_life_policy": 0.10471876702374883,
+    "mae_claims_12m": 0.11044867549588283,
+    "mae_premium_monthly": 12.010573792098175,
+    "mae_digital_engagement": 0.04037197992567111
+  }
+}

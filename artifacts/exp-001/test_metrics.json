@@ -1,0 +1,14 @@
+{
+  "next_state_rmse": 6.8063100581745095,
+  "journey_accuracy": 0.8696111111111111,
+  "reward_mae": 2.844649805772788,
+  "reward_rmse": 5.313590577993063,
+  "mae_age": 1.8248834370507134,
+  "mae_tenure_months": 3.5745711114671495,
+  "mae_auto_policy": 0.08201622320380476,
+  "mae_home_policy": 0.10465256116622024,
+  "mae_life_policy": 0.10498522362278567,
+  "mae_claims_12m": 0.11024238646030426,
+  "mae_premium_monthly": 11.88417661863389,
+  "mae_digital_engagement": 0.04003936366117373
+}

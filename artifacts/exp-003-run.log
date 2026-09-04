@@ -1,0 +1,124 @@
+{
+  "selection_rule": "equal rank across validation journey accuracy, reward MAE, and next-state RMSE",
+  "screening_epochs": 4,
+  "final_epochs": 8,
+  "candidates": [
+    {
+      "name": "latent64-equal",
+      "latent_dim": 64,
+      "state_loss_weight": 1.0,
+      "journey_loss_weight": 1.0,
+      "reward_loss_weight": 1.0,
+      "validation_metrics": {
+        "next_state_rmse": 6.83579425885485,
+        "journey_accuracy": 0.9008888888888889,
+        "reward_mae": 3.012842673636403,
+        "reward_rmse": 5.379896140000035,
+        "mae_age": 1.4885565206739637,
+        "mae_tenure_months": 2.92038500128852,
+        "mae_auto_policy": 0.08294934026069112,
+        "mae_home_policy": 0.09714351610011525,
+        "mae_life_policy": 0.10813436726563506,
+        "mae_claims_12m": 0.13863303069108063,
+        "mae_premium_monthly": 11.773746172816542,
+        "mae_digital_engagement": 0.024414519280816296
+      },
+      "rank_score": 7
+    },
+    {
+      "name": "latent64-state2",
+      "latent_dim": 64,
+      "state_loss_weight": 2.0,
+      "journey_loss_weight": 1.0,
+      "reward_loss_weight": 1.0,
+      "validation_metrics": {
+        "next_state_rmse": 6.609489287604122,
+        "journey_accuracy": 0.8887222222222222,
+        "reward_mae": 2.9518987056832486,
+        "reward_rmse": 5.384839408155855,
+        "mae_age": 1.197231009695265,
+        "mae_tenure_months": 2.4430616722106935,
+        "mae_auto_policy": 0.09395766158401966,
+        "mae_home_policy": 0.08210205082264212,
+        "mae_life_policy": 0.09293162897560331,
+        "mae_claims_12m": 0.11212524993717671,
+        "mae_premium_monthly": 11.554606834274548,
+        "mae_digital_engagement": 0.018234044278046188
+      },
+      "rank_score": 7
+    },
+    {
+      "name": "control-l32-equal",
+      "latent_dim": 32,
+      "state_loss_weight": 1.0,
+      "journey_loss_weight": 1.0,
+      "reward_loss_weight": 1.0,
+      "validation_metrics": {
+        "next_state_rmse": 6.670556873480314,
+        "journey_accuracy": 0.8891666666666667,
+        "reward_mae": 3.1220495763382834,
+        "reward_rmse": 5.398266826845038,
+        "mae_age": 1.6441159971025254,
+        "mae_tenure_months": 2.9118756205240883,
+        "mae_auto_policy": 0.08908159312605858,
+        "mae_home_policy": 0.11466684037446975,
+        "mae_life_policy": 0.10796157130433454,
+        "mae_claims_12m": 0.0932980938628316,
+        "mae_premium_monthly": 11.22473887848246,
+        "mae_digital_engagement": 0.02313877927227875
+      },
+      "rank_score": 8
+    },
+    {
+      "name": "latent64-reward2",
+      "latent_dim": 64,
+      "state_loss_weight": 1.0,
+      "journey_loss_weight": 1.0,
+      "reward_loss_weight": 2.0,
+      "validation_metrics": {
+        "next_state_rmse": 6.894236770708604,
+        "journey_accuracy": 0.8891666666666667,
+        "reward_mae": 2.882375897684018,
+        "reward_rmse": 5.381978774884543,
+        "mae_age": 1.3977528465059068,
+        "mae_tenure_months": 3.0988421501583523,
+        "mae_auto_policy": 0.08536747820344236,
+        "mae_home_policy": 0.10460740024844806,
+        "mae_life_policy": 0.11241353762315379,
+        "mae_claims_12m": 0.10711289651526346,
+        "mae_premium_monthly": 12.238673386310781,
+        "mae_digital_engagement": 0.023865439126387163
+      },
+      "rank_score": 8
+    }
+  ],
+  "winner": "latent64-equal",
+  "winner_validation_metrics": {
+    "next_state_rmse": 6.916050985690007,
+    "journey_accuracy": 0.9101111111111111,
+    "reward_mae": 3.09176796795832,
+    "reward_rmse": 5.443947622376139,
+    "mae_age": 1.1727415181265937,
+    "mae_tenure_months": 2.4273478696611193,
+    "mae_auto_policy": 0.07685798411568005,
+    "mae_home_policy": 0.06846993783944183,
+    "mae_life_policy": 0.10908068524301053,
+    "mae_claims_12m": 0.092471392021411,
+    "mae_premium_monthly": 11.512572767529644,
+    "mae_digital_engagement": 0.01693470616057747
+  },
+  "winner_test_metrics": {
+    "next_state_rmse": 6.740146841687688,
+    "journey_accuracy": 0.9108333333333334,
+    "reward_mae": 3.08780963591661,
+    "reward_rmse": 5.415531061802557,
+    "mae_age": 1.1755790921317206,
+    "mae_tenure_months": 2.481077730178833,
+    "mae_auto_policy": 0.07504217220842838,
+    "mae_home_policy": 0.06990074306726456,
+    "mae_life_policy": 0.10974131331013309,
+    "mae_claims_12m": 0.09200293509910504,
+    "mae_premium_monthly": 11.390180125129683,
+    "mae_digital_engagement": 0.01680995618278459
+  }
+}

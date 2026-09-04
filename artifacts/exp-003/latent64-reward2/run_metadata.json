@@ -1,0 +1,22 @@
+{
+  "experiment_id": "EXP-003-latent64-reward2",
+  "dataset_version": "v0.1",
+  "environment_version": "v0.1",
+  "model_version": "world-model-v1",
+  "seed": 42,
+  "rows": 120000,
+  "metrics": {
+    "next_state_rmse": 6.894236770708604,
+    "journey_accuracy": 0.8891666666666667,
+    "reward_mae": 2.882375897684018,
+    "reward_rmse": 5.381978774884543,
+    "mae_age": 1.3977528465059068,
+    "mae_tenure_months": 3.0988421501583523,
+    "mae_auto_policy": 0.08536747820344236,
+    "mae_home_policy": 0.10460740024844806,
+    "mae_life_policy": 0.11241353762315379,
+    "mae_claims_12m": 0.10711289651526346,
+    "mae_premium_monthly": 12.238673386310781,
+    "mae_digital_engagement": 0.023865439126387163
+  }
+}

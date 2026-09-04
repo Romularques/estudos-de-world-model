@@ -1,0 +1,20 @@
+{
+  "next_state_rmse": 6.595835839455215,
+  "journey_accuracy": 0.9087777777777778,
+  "reward_mae": 2.414169943381113,
+  "reward_rmse": 5.552356009865053,
+  "mae_age": 1.0530304208331638,
+  "mae_tenure_months": 2.306804564581977,
+  "mae_auto_policy": 0.0698326190792852,
+  "mae_home_policy": 0.08355175671809249,
+  "mae_life_policy": 0.09943179362515608,
+  "mae_claims_12m": 0.08598755235307746,
+  "mae_premium_monthly": 11.862515334845638,
+  "mae_digital_engagement": 0.01703234445582874,
+  "purchase_accuracy": 0.9162222222222223,
+  "purchase_brier": 0.05339323729276657,
+  "purchase_rate": 0.15138888359069824,
+  "cancellation_accuracy": 0.9938888888888889,
+  "cancellation_brier": 0.004755947273224592,
+  "cancellation_rate": 0.006500000134110451
+}

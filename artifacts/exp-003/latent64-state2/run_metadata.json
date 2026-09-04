@@ -1,0 +1,22 @@
+{
+  "experiment_id": "EXP-003-latent64-state2",
+  "dataset_version": "v0.1",
+  "environment_version": "v0.1",
+  "model_version": "world-model-v1",
+  "seed": 42,
+  "rows": 120000,
+  "metrics": {
+    "next_state_rmse": 6.609489287604122,
+    "journey_accuracy": 0.8887222222222222,
+    "reward_mae": 2.9518987056832486,
+    "reward_rmse": 5.384839408155855,
+    "mae_age": 1.197231009695265,
+    "mae_tenure_months": 2.4430616722106935,
+    "mae_auto_policy": 0.09395766158401966,
+    "mae_home_policy": 0.08210205082264212,
+    "mae_life_policy": 0.09293162897560331,
+    "mae_claims_12m": 0.11212524993717671,
+    "mae_premium_monthly": 11.554606834274548,
+    "mae_digital_engagement": 0.018234044278046188
+  }
+}

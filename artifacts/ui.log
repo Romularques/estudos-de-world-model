@@ -1,0 +1,7 @@
+INFO:     127.0.0.1:49180 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64565 - "GET /simulate?profile=AUTO_CUSTOMER&product=LIFE&channel=BROKER&price=100.0&discount=0.15&cadence=MONTHLY&horizon_months=12&simulations=100&seed=42 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52921 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57316 - "GET /simulate?profile=AT_RISK_CUSTOMER&product=LIFE&channel=CALL_CENTER&price=250&discount=0.15&cadence=ONCE&horizon_months=6&simulations=1000&seed=42 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65006 - "GET /simulate?profile=DIGITAL_PROSPECT&product=HOME&channel=APP&price=250.0&discount=0&cadence=MONTHLY&horizon_months=10&simulations=500&seed=42 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51659 - "GET /simulate?profile=AUTO_CUSTOMER&product=LIFE&channel=BROKER&price=100&discount=0.1&cadence=MONTHLY&horizon_months=12&simulations=1000&seed=42 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52489 - "GET /simulate?profile=AUTO_CUSTOMER&product=LIFE&channel=BROKER&price=100.0&discount=0.1&cadence=ONCE&horizon_months=12&simulations=100&seed=42 HTTP/1.1" 200 OK
