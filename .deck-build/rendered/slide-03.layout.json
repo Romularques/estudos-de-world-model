@@ -1,0 +1,1249 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/f0ktaf",
+    "id": "f0ktaf",
+    "slide": 3,
+    "layoutId": "7531b8f5-7ffd-49b1-bb76-d8e45a807461",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "565a1dd4-3160-4a84-8083-ff240f70b13c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "7531b8f5-7ffd-49b1-bb76-d8e45a807461",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "565a1dd4-3160-4a84-8083-ff240f70b13c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "565a1dd4-3160-4a84-8083-ff240f70b13c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wz218fml",
+      "id": "1",
+      "name": "text",
+      "bbox": [
+        42,
+        26,
+        650,
+        28
+      ],
+      "geometry": "rect",
+      "text": "INSURANCE WORLD MODEL • P&D",
+      "textPreview": "INSURANCE WORLD MODEL • P&D",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INSURANCE WORLD MODEL • P&D"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INSURANCE WORLD MODEL • P&D",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#606772",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INSURANCE WORLD MODEL • P&D",
+              "fontSize": 15,
+              "color": "#606772",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vyt0zul0",
+      "id": "2",
+      "name": "text",
+      "bbox": [
+        42,
+        62,
+        1160,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Predizer um resultado e simular um mundo são problemas diferentes",
+      "textPreview": "Predizer um resultado e simular um mundo são problemas diferentes",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Predizer um resultado e simular um mundo são problemas diferentes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Predizer um resultado e simular um mundo são problemas diferentes",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Predizer um resultado e simular um mundo são problemas diferentes",
+              "fontSize": 38,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxkj6p4f",
+      "id": "3",
+      "name": "rule",
+      "bbox": [
+        42,
+        151,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cbixk3u",
+      "id": "4",
+      "name": "text",
+      "bbox": [
+        1190,
+        672,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#606772",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 13,
+              "color": "#606772",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bi14fm9",
+      "id": "5",
+      "name": "text",
+      "bbox": [
+        42,
+        180,
+        530,
+        34
+      ],
+      "geometry": "rect",
+      "text": "ML PREDITIVO CLÁSSICO",
+      "textPreview": "ML PREDITIVO CLÁSSICO",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ML PREDITIVO CLÁSSICO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ML PREDITIVO CLÁSSICO",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#606772",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ML PREDITIVO CLÁSSICO",
+              "fontSize": 18,
+              "color": "#606772",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7a90valo",
+      "id": "6",
+      "name": "text",
+      "bbox": [
+        42,
+        225,
+        470,
+        92
+      ],
+      "geometry": "rect",
+      "text": "Uma pergunta,\numa resposta",
+      "textPreview": "Uma pergunta, | uma resposta",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Uma pergunta,"
+          },
+          {
+            "index": 2,
+            "text": "uma resposta"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Uma pergunta,",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Uma pergunta,",
+              "fontSize": 34,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "uma resposta",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "uma resposta",
+              "fontSize": 34,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m90j254j",
+      "id": "7",
+      "name": "text",
+      "bbox": [
+        42,
+        350,
+        470,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Dados históricos + atributos",
+      "textPreview": "Dados históricos + atributos",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dados históricos + atributos"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dados históricos + atributos",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dados históricos + atributos",
+              "fontSize": 19,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l8rit03y",
+      "id": "8",
+      "name": "text",
+      "bbox": [
+        220,
+        388,
+        60,
+        35
+      ],
+      "geometry": "rect",
+      "text": "↓",
+      "textPreview": "↓",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#B8BCC4",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "↓"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "↓",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#B8BCC4",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "↓",
+              "fontSize": 28,
+              "color": "#B8BCC4",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k7i10vmd",
+      "id": "9",
+      "name": "box",
+      "bbox": [
+        82,
+        432,
+        390,
+        68
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F0F2F4",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2ho7q9ov",
+      "id": "10",
+      "name": "text",
+      "bbox": [
+        82,
+        432,
+        390,
+        68
+      ],
+      "geometry": "rect",
+      "text": "P(compra) = 16%",
+      "textPreview": "P(compra) = 16%",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 27,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "P(compra) = 16%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "P(compra) = 16%",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "P(compra) = 16%",
+              "fontSize": 27,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ixojepg",
+      "id": "11",
+      "name": "text",
+      "bbox": [
+        42,
+        525,
+        490,
+        72
+      ],
+      "geometry": "rect",
+      "text": "O algoritmo estima um alvo definido: propensão, fraude, churn, sinistro ou valor.",
+      "textPreview": "O algoritmo estima um alvo definido: propensão, fraude, churn, sinistro ou valor.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "O algoritmo estima um alvo definido: propensão, fraude,"
+          },
+          {
+            "index": 2,
+            "text": "churn, sinistro ou valor."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "O algoritmo estima um alvo definido: propensão, fraude, churn, sinistro ou valor.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "O algoritmo estima um alvo definido: propensão, fraude, churn, sinistro ou valor.",
+              "fontSize": 19,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4j6psj6l",
+      "id": "12",
+      "name": "rule",
+      "bbox": [
+        620,
+        180,
+        2,
+        430
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4fqlo76",
+      "id": "13",
+      "name": "text",
+      "bbox": [
+        690,
+        180,
+        490,
+        34
+      ],
+      "geometry": "rect",
+      "text": "WORLD MODEL",
+      "textPreview": "WORLD MODEL",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WORLD MODEL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WORLD MODEL",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WORLD MODEL",
+              "fontSize": 18,
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ud47m9oj",
+      "id": "14",
+      "name": "text",
+      "bbox": [
+        690,
+        225,
+        470,
+        92
+      ],
+      "geometry": "rect",
+      "text": "Uma ação,\nvários futuros",
+      "textPreview": "Uma ação, | vários futuros",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Uma ação,"
+          },
+          {
+            "index": 2,
+            "text": "vários futuros"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Uma ação,",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Uma ação,",
+              "fontSize": 34,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "vários futuros",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "vários futuros",
+              "fontSize": 34,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fexofep4",
+      "id": "15",
+      "name": "text",
+      "bbox": [
+        690,
+        350,
+        470,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Estado atual + ação proposta",
+      "textPreview": "Estado atual + ação proposta",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Estado atual + ação proposta"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Estado atual + ação proposta",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Estado atual + ação proposta",
+              "fontSize": 19,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gf6poj6p",
+      "id": "16",
+      "name": "text",
+      "bbox": [
+        870,
+        388,
+        60,
+        35
+      ],
+      "geometry": "rect",
+      "text": "↓",
+      "textPreview": "↓",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "↓"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "↓",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "↓",
+              "fontSize": 28,
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgf6ho7a",
+      "id": "17",
+      "name": "box",
+      "bbox": [
+        730,
+        432,
+        390,
+        68
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D0EDFA",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6947ipon",
+      "id": "18",
+      "name": "text",
+      "bbox": [
+        730,
+        432,
+        390,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Sₜ₊₁ + Rₜ → trajetória",
+      "textPreview": "Sₜ₊₁ + Rₜ → trajetória",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sₜ₊₁ + Rₜ → trajetória"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sₜ₊₁ + Rₜ → trajetória",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sₜ₊₁ + Rₜ → trajetória",
+              "fontSize": 25,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adobup8",
+      "id": "19",
+      "name": "text",
+      "bbox": [
+        690,
+        525,
+        490,
+        72
+      ],
+      "geometry": "rect",
+      "text": "O modelo aprende a dinâmica para encadear transições, comparar ações e projetar horizontes.",
+      "textPreview": "O modelo aprende a dinâmica para encadear transições, comparar ações e projetar horizontes.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "O modelo aprende a dinâmica para encadear transições,"
+          },
+          {
+            "index": 2,
+            "text": "comparar ações e projetar horizontes."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "O modelo aprende a dinâmica para encadear transições, comparar ações e projetar horizontes.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "O modelo aprende a dinâmica para encadear transições, comparar ações e projetar horizontes.",
+              "fontSize": 19,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu94jq50",
+      "id": "20",
+      "name": "box",
+      "bbox": [
+        255,
+        625,
+        770,
+        42
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111318",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at03ql4f",
+      "id": "21",
+      "name": "text",
+      "bbox": [
+        275,
+        625,
+        730,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Ambos são ML; muda a unidade de previsão e a finalidade da decisão.",
+      "textPreview": "Ambos são ML; muda a unidade de previsão e a finalidade da decisão.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ambos são ML; muda a unidade de previsão e a finalidade da decisão."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ambos são ML; muda a unidade de previsão e a finalidade da decisão.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ambos são ML; muda a unidade de previsão e a finalidade da decisão.",
+              "fontSize": 19,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

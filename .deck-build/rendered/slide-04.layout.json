@@ -1,0 +1,1007 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/szjcng",
+    "id": "szjcng",
+    "slide": 4,
+    "layoutId": "7531b8f5-7ffd-49b1-bb76-d8e45a807461",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "565a1dd4-3160-4a84-8083-ff240f70b13c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "7531b8f5-7ffd-49b1-bb76-d8e45a807461",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "565a1dd4-3160-4a84-8083-ff240f70b13c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "565a1dd4-3160-4a84-8083-ff240f70b13c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwv2l0je",
+      "id": "1",
+      "name": "text",
+      "bbox": [
+        42,
+        26,
+        650,
+        28
+      ],
+      "geometry": "rect",
+      "text": "INSURANCE WORLD MODEL • P&D",
+      "textPreview": "INSURANCE WORLD MODEL • P&D",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INSURANCE WORLD MODEL • P&D"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INSURANCE WORLD MODEL • P&D",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#606772",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INSURANCE WORLD MODEL • P&D",
+              "fontSize": 15,
+              "color": "#606772",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9kjalkn",
+      "id": "2",
+      "name": "text",
+      "bbox": [
+        42,
+        62,
+        1160,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Chat, projeto e repositório cumprem papéis diferentes na rastreabilidade",
+      "textPreview": "Chat, projeto e repositório cumprem papéis diferentes na rastreabilidade",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Chat, projeto e repositório cumprem papéis diferentes na"
+          },
+          {
+            "index": 2,
+            "text": "rastreabilidade"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Chat, projeto e repositório cumprem papéis diferentes na rastreabilidade",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Chat, projeto e repositório cumprem papéis diferentes na rastreabilidade",
+              "fontSize": 38,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ratkjq18",
+      "id": "3",
+      "name": "rule",
+      "bbox": [
+        42,
+        151,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0zm1gv2p",
+      "id": "4",
+      "name": "text",
+      "bbox": [
+        1190,
+        672,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#606772",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 13,
+              "color": "#606772",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10v2p0ja",
+      "id": "5",
+      "name": "box",
+      "bbox": [
+        42,
+        205,
+        360,
+        340
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D0EDFA",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex4je5kz",
+      "id": "6",
+      "name": "text",
+      "bbox": [
+        66,
+        226,
+        310,
+        30
+      ],
+      "geometry": "rect",
+      "text": "CHAT",
+      "textPreview": "CHAT",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CHAT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CHAT",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CHAT",
+              "fontSize": 16,
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zydkna1k",
+      "id": "7",
+      "name": "text",
+      "bbox": [
+        66,
+        280,
+        310,
+        70
+      ],
+      "geometry": "rect",
+      "text": "Raciocínio e decisões",
+      "textPreview": "Raciocínio e decisões",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Raciocínio e decisões"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Raciocínio e decisões",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Raciocínio e decisões",
+              "fontSize": 28,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3m1kfi1",
+      "id": "8",
+      "name": "text",
+      "bbox": [
+        66,
+        372,
+        310,
+        115
+      ],
+      "geometry": "rect",
+      "text": "Evolução conceitual; perguntas; correções semânticas; escolhas de escopo.",
+      "textPreview": "Evolução conceitual; perguntas; correções semânticas; escolhas de escopo.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Evolução conceitual; perguntas;"
+          },
+          {
+            "index": 2,
+            "text": "correções semânticas; escolhas de"
+          },
+          {
+            "index": 3,
+            "text": "escopo."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Evolução conceitual; perguntas; correções semânticas; escolhas de escopo.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Evolução conceitual; perguntas; correções semânticas; escolhas de escopo.",
+              "fontSize": 20,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94f2tkjm",
+      "id": "9",
+      "name": "box",
+      "bbox": [
+        442,
+        205,
+        360,
+        340
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F0F2F4",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/547utkba",
+      "id": "10",
+      "name": "text",
+      "bbox": [
+        466,
+        226,
+        310,
+        30
+      ],
+      "geometry": "rect",
+      "text": "PROJETO",
+      "textPreview": "PROJETO",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PROJETO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PROJETO",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PROJETO",
+              "fontSize": 16,
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3yd0fup",
+      "id": "11",
+      "name": "text",
+      "bbox": [
+        466,
+        280,
+        310,
+        70
+      ],
+      "geometry": "rect",
+      "text": "Contexto persistente",
+      "textPreview": "Contexto persistente",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Contexto persistente"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Contexto persistente",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Contexto persistente",
+              "fontSize": 28,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2pcrad4",
+      "id": "12",
+      "name": "text",
+      "bbox": [
+        466,
+        372,
+        310,
+        115
+      ],
+      "geometry": "rect",
+      "text": "Especificação, metodologia, experimentos, artefatos e demo local.",
+      "textPreview": "Especificação, metodologia, experimentos, artefatos e demo local.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Especificação, metodologia,"
+          },
+          {
+            "index": 2,
+            "text": "experimentos, artefatos e demo"
+          },
+          {
+            "index": 3,
+            "text": "local."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Especificação, metodologia, experimentos, artefatos e demo local.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Especificação, metodologia, experimentos, artefatos e demo local.",
+              "fontSize": 20,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1gvy5cj",
+      "id": "13",
+      "name": "box",
+      "bbox": [
+        842,
+        205,
+        360,
+        340
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FCE8E8",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8ruxkb6",
+      "id": "14",
+      "name": "text",
+      "bbox": [
+        866,
+        226,
+        310,
+        30
+      ],
+      "geometry": "rect",
+      "text": "REPOSITÓRIO",
+      "textPreview": "REPOSITÓRIO",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#D94A4A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REPOSITÓRIO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REPOSITÓRIO",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#D94A4A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REPOSITÓRIO",
+              "fontSize": 16,
+              "color": "#D94A4A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7id4ful",
+      "id": "15",
+      "name": "text",
+      "bbox": [
+        866,
+        280,
+        310,
+        70
+      ],
+      "geometry": "rect",
+      "text": "Histórico verificável",
+      "textPreview": "Histórico verificável",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "+mn-lt",
+        "color": "#111318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Histórico verificável"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Histórico verificável",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "color": "#111318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Histórico verificável",
+              "fontSize": 28,
+              "color": "#111318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/769cvatg",
+      "id": "16",
+      "name": "text",
+      "bbox": [
+        866,
+        372,
+        310,
+        115
+      ],
+      "geometry": "rect",
+      "text": "O código entregue existe em uma pasta de trabalho; o repo aberto ainda está sem commits.",
+      "textPreview": "O código entregue existe em uma pasta de trabalho; o repo aberto ainda está sem commits.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#606772",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "O código entregue existe em uma"
+          },
+          {
+            "index": 2,
+            "text": "pasta de trabalho; o repo aberto"
+          },
+          {
+            "index": 3,
+            "text": "ainda está sem commits."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "O código entregue existe em uma pasta de trabalho; o repo aberto ainda está sem commits.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#606772",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "O código entregue existe em uma pasta de trabalho; o repo aberto ainda está sem commits.",
+              "fontSize": 20,
+              "color": "#606772",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65gv25cv",
+      "id": "17",
+      "name": "text",
+      "bbox": [
+        42,
+        585,
+        1160,
+        55
+      ],
+      "geometry": "rect",
+      "text": "Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa.",
+      "textPreview": "Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa.",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#D94A4A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#D94A4A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa.",
+              "fontSize": 21,
+              "color": "#D94A4A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

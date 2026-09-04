@@ -1,0 +1,318 @@
+{"kind":"deck","id":"pr/0vhiev","name":"Deck"}
+{"kind":"layout","layoutId":"3488479c-6e13-400c-9f08-e88d21b39f83","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"829af759-38e1-434b-b183-1d8b0e2a8cd9","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/qanst5","slide":1,"title":"P&D • WORLD MODEL PARA SEGUROS","textShapes":11}
+{"kind":"textbox","id":"sh/sna58fy5","slide":1,"name":"text","text":"P&D • WORLD MODEL PARA SEGUROS","textPreview":"P&D • WORLD MODEL PARA SEGUROS","textChars":30,"textLines":1,"bbox":[42,36,620,30]}
+{"kind":"textbox","id":"sh/7m1ozaxk","slide":1,"name":"text","text":"Do conceito à\nsimulação de futuros","textPreview":"Do conceito à | simulação de futuros","textChars":34,"textLines":2,"bbox":[42,145,570,190]}
+{"kind":"textbox","id":"sh/6l8n65gz","slide":1,"name":"text","text":"O que construímos, como decidimos e onde o modelo ainda não pode ser usado","textPreview":"O que construímos, como decidimos e onde o modelo ainda não pode ser usado","textChars":74,"textLines":1,"bbox":[42,370,520,110]}
+{"kind":"shape","id":"sh/hsj654fm","slide":1,"name":"box","bbox":[690,42,548,586]}
+{"kind":"textbox","id":"sh/grapcze1","slide":1,"name":"text","text":"Sₜ","textPreview":"Sₜ","textChars":2,"textLines":1,"bbox":[744,130,100,70]}
+{"kind":"textbox","id":"sh/fq1o3uxg","slide":1,"name":"text","text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[844,130,50,70]}
+{"kind":"textbox","id":"sh/ups7apgv","slide":1,"name":"text","text":"Aₜ","textPreview":"Aₜ","textChars":2,"textLines":1,"bbox":[894,130,100,70]}
+{"kind":"textbox","id":"sh/xwz6t0fi","slide":1,"name":"text","text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[844,220,50,50]}
+{"kind":"shape","id":"sh/wvq50vyx","slide":1,"name":"box","bbox":[758,285,412,105]}
+{"kind":"textbox","id":"sh/ydkj61sz","slide":1,"name":"text","text":"WORLD MODEL","textPreview":"WORLD MODEL","textChars":11,"textLines":1,"bbox":[758,285,412,105]}
+{"kind":"textbox","id":"sh/zed0f6tk","slide":1,"name":"text","text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[844,405,50,50]}
+{"kind":"textbox","id":"sh/kfm18ba5","slide":1,"name":"text","text":"Sₜ₊₁  +  Rₜ","textPreview":"Sₜ₊₁  +  Rₜ","textChars":11,"textLines":1,"bbox":[740,472,440,70]}
+{"kind":"textbox","id":"sh/lgvihgbq","slide":1,"name":"text","text":"02 SET 2026","textPreview":"02 SET 2026","textChars":11,"textLines":1,"bbox":[42,650,220,22]}
+{"kind":"notes","id":"nt/qanst5","slide":1,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md"}
+{"kind":"slide","id":"sl/dlhxjv","slide":2,"title":"INSURANCE WORLD MODEL • P&D","textShapes":17}
+{"kind":"textbox","id":"sh/mxkzy5cf","slide":2,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/90bytkvq","slide":2,"name":"text","text":"A prova de conceito já percorre o ciclo completo — em ambiente sintético","textPreview":"A prova de conceito já percorre o ciclo completo — em ambiente sintético","textChars":72,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/oz2h0ful","slide":2,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/v2tgvudw","slide":2,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"textbox","id":"sh/a1kz2pcb","slide":2,"name":"text","text":"A hipótese","textPreview":"A hipótese","textChars":10,"textLines":1,"bbox":[42,185,330,35]}
+{"kind":"textbox","id":"sh/x4byx4v2","slide":2,"name":"text","text":"Aprender como o estado de um cliente evolui depois de uma ação da seguradora.","textPreview":"Aprender como o estado de um cliente evolui depois de uma ação da seguradora.","textChars":77,"textLines":1,"bbox":[42,230,405,150]}
+{"kind":"shape","id":"sh/w32h4zuh","slide":2,"name":"box","bbox":[520,184,680,84]}
+{"kind":"textbox","id":"sh/r69gjqds","slide":2,"name":"text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[540,184,45,84]}
+{"kind":"textbox","id":"sh/q5gfqlc7","slide":2,"name":"text","text":"Mundo conhecido","textPreview":"Mundo conhecido","textChars":15,"textLines":1,"bbox":[600,190,220,32]}
+{"kind":"textbox","id":"sh/s3u50fq9","slide":2,"name":"text","text":"Regras sintéticas + variáveis latentes","textPreview":"Regras sintéticas + variáveis latentes","textChars":38,"textLines":1,"bbox":[600,222,560,36]}
+{"kind":"shape","id":"sh/t43m9k7u","slide":2,"name":"box","bbox":[520,292,680,84]}
+{"kind":"textbox","id":"sh/61cny583","slide":2,"name":"text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[540,292,45,84]}
+{"kind":"textbox","id":"sh/r2l47apo","slide":2,"name":"text","text":"Aprendizado","textPreview":"Aprendizado","textChars":11,"textLines":1,"bbox":[600,298,220,32]}
+{"kind":"textbox","id":"sh/gru54f65","slide":2,"name":"text","text":"Trajetórias → modelo de dinâmica","textPreview":"Trajetórias → modelo de dinâmica","textChars":32,"textLines":1,"bbox":[600,330,560,36]}
+{"kind":"shape","id":"sh/1snmdk7q","slide":2,"name":"box","bbox":[520,400,680,84]}
+{"kind":"textbox","id":"sh/epcn2p8z","slide":2,"name":"text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[540,400,45,84]}
+{"kind":"textbox","id":"sh/fql4bupk","slide":2,"name":"text","text":"Imaginação","textPreview":"Imaginação","textChars":10,"textLines":1,"bbox":[600,406,220,32]}
+{"kind":"textbox","id":"sh/wvalsvq1","slide":2,"name":"text","text":"O modelo projeta futuros sem consultar o ambiente","textPreview":"O modelo projeta futuros sem consultar o ambiente","textChars":49,"textLines":1,"bbox":[600,438,560,36]}
+{"kind":"shape","id":"sh/hwjm107m","slide":2,"name":"box","bbox":[520,508,680,84]}
+{"kind":"textbox","id":"sh/dgru9svy","slide":2,"name":"text","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[540,508,45,84]}
+{"kind":"textbox","id":"sh/cfitgned","slide":2,"name":"text","text":"Demonstração","textPreview":"Demonstração","textChars":12,"textLines":1,"bbox":[600,514,220,32]}
+{"kind":"textbox","id":"sh/be9s7id8","slide":2,"name":"text","text":"Cenários fechados em uma interface local","textPreview":"Cenários fechados em uma interface local","textChars":40,"textLines":1,"bbox":[600,546,560,36]}
+{"kind":"notes","id":"nt/dlhxjv","slide":2,"text":"Mensagem: demonstramos o pipeline, não uma decisão de negócio pronta para produção.\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md"}
+{"kind":"slide","id":"sl/qkmxtw","slide":3,"title":"INSURANCE WORLD MODEL • P&D","textShapes":16}
+{"kind":"textbox","id":"sh/algnatcr","slide":3,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/xo76l8vi","slide":3,"name":"text","text":"Predizer um resultado e simular um mundo são problemas diferentes","textPreview":"Predizer um resultado e simular um mundo são problemas diferentes","textChars":65,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/wnypc3ux","slide":3,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/ni5ofydg","slide":3,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"textbox","id":"sh/mxwn6tcv","slide":3,"name":"text","text":"ML PREDITIVO CLÁSSICO","textPreview":"ML PREDITIVO CLÁSSICO","textChars":21,"textLines":1,"bbox":[42,180,530,34]}
+{"kind":"textbox","id":"sh/9k76hovm","slide":3,"name":"text","text":"Uma pergunta,\numa resposta","textPreview":"Uma pergunta, | uma resposta","textChars":26,"textLines":2,"bbox":[42,225,470,92]}
+{"kind":"textbox","id":"sh/8jy583u1","slide":3,"name":"text","text":"Dados históricos + atributos","textPreview":"Dados históricos + atributos","textChars":28,"textLines":1,"bbox":[42,350,470,32]}
+{"kind":"textbox","id":"sh/re9oritk","slide":3,"name":"text","text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[220,388,60,35]}
+{"kind":"shape","id":"sh/6t07idcz","slide":3,"name":"box","bbox":[82,432,390,68]}
+{"kind":"textbox","id":"sh/gr6hw3q1","slide":3,"name":"text","text":"P(compra) = 16%","textPreview":"P(compra) = 16%","textChars":15,"textLines":1,"bbox":[82,432,390,68]}
+{"kind":"textbox","id":"sh/hsfip87m","slide":3,"name":"text","text":"O algoritmo estima um alvo definido: propensão, fraude, churn, sinistro ou valor.","textPreview":"O algoritmo estima um alvo definido: propensão, fraude, churn, sinistro ou valor.","textChars":81,"textLines":1,"bbox":[42,525,490,72]}
+{"kind":"shape","id":"sh/u5ozud8b","slide":3,"name":"rule","bbox":[620,180,2,430]}
+{"kind":"textbox","id":"sh/v6x0nipg","slide":3,"name":"text","text":"WORLD MODEL","textPreview":"WORLD MODEL","textChars":11,"textLines":1,"bbox":[690,180,490,34]}
+{"kind":"textbox","id":"sh/83mhs3q5","slide":3,"name":"text","text":"Uma ação,\nvários futuros","textPreview":"Uma ação, | vários futuros","textChars":24,"textLines":2,"bbox":[690,225,470,92]}
+{"kind":"textbox","id":"sh/t4vy187q","slide":3,"name":"text","text":"Estado atual + ação proposta","textPreview":"Estado atual + ação proposta","textChars":28,"textLines":1,"bbox":[690,350,470,32]}
+{"kind":"textbox","id":"sh/614zqt8z","slide":3,"name":"text","text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[870,388,60,35]}
+{"kind":"shape","id":"sh/72dgzypk","slide":3,"name":"box","bbox":[730,432,390,68]}
+{"kind":"textbox","id":"sh/kzmhojqt","slide":3,"name":"text","text":"Sₜ₊₁ + Rₜ → trajetória","textPreview":"Sₜ₊₁ + Rₜ → trajetória","textChars":22,"textLines":1,"bbox":[730,432,390,68]}
+{"kind":"textbox","id":"sh/l0vyxo7e","slide":3,"name":"text","text":"O modelo aprende a dinâmica para encadear transições, comparar ações e projetar horizontes.","textPreview":"O modelo aprende a dinâmica para encadear transições, comparar ações e projetar horizontes.","textChars":91,"textLines":1,"bbox":[690,525,490,72]}
+{"kind":"shape","id":"sh/1k365gf6","slide":3,"name":"box","bbox":[255,625,770,42]}
+{"kind":"textbox","id":"sh/0ju5cvel","slide":3,"name":"text","text":"Ambos são ML; muda a unidade de previsão e a finalidade da decisão.","textPreview":"Ambos são ML; muda a unidade de previsão e a finalidade da decisão.","textChars":67,"textLines":1,"bbox":[275,625,730,42]}
+{"kind":"notes","id":"nt/qkmxtw","slide":3,"text":"Ponto de fala: um world model também é um algoritmo preditivo; ele não substitui automaticamente modelos clássicos. Ele amplia a unidade de análise de um alvo para a dinâmica state + action → next state + reward.\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/model/world_model.py"}
+{"kind":"slide","id":"sl/8qg1ue","slide":4,"title":"INSURANCE WORLD MODEL • P&D","textShapes":13}
+{"kind":"textbox","id":"sh/hoju1cri","slide":4,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/u1sb6xs7","slide":4,"name":"text","text":"Chat, projeto e repositório cumprem papéis diferentes na rastreabilidade","textPreview":"Chat, projeto e repositório cumprem papéis diferentes na rastreabilidade","textChars":72,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/f21sz29s","slide":4,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/szat47a1","slide":4,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"shape","id":"sh/t0jaxcrm","slide":4,"name":"box","bbox":[42,205,360,340]}
+{"kind":"textbox","id":"sh/6xsb2xsv","slide":4,"name":"text","text":"CHAT","textPreview":"CHAT","textChars":4,"textLines":1,"bbox":[66,226,310,30]}
+{"kind":"textbox","id":"sh/7y1sv29g","slide":4,"name":"text","text":"Raciocínio e decisões","textPreview":"Raciocínio e decisões","textChars":21,"textLines":1,"bbox":[66,280,310,70]}
+{"kind":"textbox","id":"sh/kvqt0na5","slide":4,"name":"text","text":"Evolução conceitual; perguntas; correções semânticas; escolhas de escopo.","textPreview":"Evolução conceitual; perguntas; correções semânticas; escolhas de escopo.","textChars":73,"textLines":1,"bbox":[66,372,310,115]}
+{"kind":"shape","id":"sh/5wzatsra","slide":4,"name":"box","bbox":[442,205,360,340]}
+{"kind":"textbox","id":"sh/h8bulcji","slide":4,"name":"text","text":"PROJETO","textPreview":"PROJETO","textChars":7,"textLines":1,"bbox":[466,226,310,30]}
+{"kind":"textbox","id":"sh/g72ts7id","slide":4,"name":"text","text":"Contexto persistente","textPreview":"Contexto persistente","textChars":20,"textLines":1,"bbox":[466,280,310,70]}
+{"kind":"textbox","id":"sh/f69cj21s","slide":4,"name":"text","text":"Especificação, metodologia, experimentos, artefatos e demo local.","textPreview":"Especificação, metodologia, experimentos, artefatos e demo local.","textChars":65,"textLines":1,"bbox":[466,372,310,115]}
+{"kind":"shape","id":"sh/u50bqx07","slide":4,"name":"box","bbox":[842,205,360,340]}
+{"kind":"textbox","id":"sh/t4ruhsjm","slide":4,"name":"text","text":"REPOSITÓRIO","textPreview":"REPOSITÓRIO","textChars":11,"textLines":1,"bbox":[866,226,310,30]}
+{"kind":"textbox","id":"sh/s3iton21","slide":4,"name":"text","text":"Histórico verificável","textPreview":"Histórico verificável","textChars":21,"textLines":1,"bbox":[866,280,310,70]}
+{"kind":"textbox","id":"sh/729cf21g","slide":4,"name":"text","text":"O código entregue existe em uma pasta de trabalho; o repo aberto ainda está sem commits.","textPreview":"O código entregue existe em uma pasta de trabalho; o repo aberto ainda está sem commits.","textChars":88,"textLines":1,"bbox":[866,372,310,115]}
+{"kind":"textbox","id":"sh/610bmxkv","slide":4,"name":"text","text":"Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa.","textPreview":"Implicação: conectar a pasta entregue ao repo permitirá transformar o histórico do chat em evidência versionada por etapa.","textChars":122,"textLines":1,"bbox":[42,585,1160,55]}
+{"kind":"notes","id":"nt/8qg1ue","slide":4,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md\n- Codex task: Criar ambiente sintético de seguros\n- Local project status: master, no commits"}
+{"kind":"slide","id":"sl/gdkawl","slide":5,"title":"INSURANCE WORLD MODEL • P&D","textShapes":19}
+{"kind":"textbox","id":"sh/ah0bm14r","slide":5,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/x4baxw3i","slide":5,"name":"text","text":"O trabalho avançou por experimentos controlados, não por um único treinamento","textPreview":"O trabalho avançou por experimentos controlados, não por um único treinamento","textChars":77,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/wj2tobmx","slide":5,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/j6tsz6lo","slide":5,"name":"text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"shape","id":"sh/y5kbq143","slide":5,"name":"rule","bbox":[90,335,1080,3]}
+{"kind":"shape","id":"sh/l8ba1g3u","slide":5,"name":"box","bbox":[146,322,20,20]}
+{"kind":"textbox","id":"sh/k72tsbm9","slide":5,"name":"text","text":"S1–S2","textPreview":"S1–S2","textChars":5,"textLines":1,"bbox":[50,205,210,34]}
+{"kind":"textbox","id":"sh/7ats3qlk","slide":5,"name":"text","text":"Ambiente + dados","textPreview":"Ambiente + dados","textChars":16,"textLines":1,"bbox":[50,246,210,58]}
+{"kind":"textbox","id":"sh/69kbul4z","slide":5,"name":"text","text":"120 mil transições\ncom oracle separado","textPreview":"120 mil transições | com oracle separado","textChars":38,"textLines":2,"bbox":[50,372,210,100]}
+{"kind":"shape","id":"sh/s7upwbu5","slide":5,"name":"box","bbox":[390,322,20,20]}
+{"kind":"textbox","id":"sh/t83q5wbq","slide":5,"name":"text","text":"EXP‑001","textPreview":"EXP‑001","textChars":7,"textLines":1,"bbox":[294,205,210,34]}
+{"kind":"textbox","id":"sh/6lc7u1cz","slide":5,"name":"text","text":"Baseline MLP","textPreview":"Baseline MLP","textChars":12,"textLines":1,"bbox":[294,246,210,58]}
+{"kind":"textbox","id":"sh/rml836dk","slide":5,"name":"text","text":"Referência simples\npara evitar complexidade gratuita","textPreview":"Referência simples | para evitar complexidade gratuita","textChars":52,"textLines":2,"bbox":[294,372,210,100]}
+{"kind":"shape","id":"sh/gbep0buh","slide":5,"name":"box","bbox":[634,322,20,20]}
+{"kind":"textbox","id":"sh/1cnq9gb2","slide":5,"name":"text","text":"EXP‑002","textPreview":"EXP‑002","textChars":7,"textLines":1,"bbox":[538,205,210,34]}
+{"kind":"textbox","id":"sh/e9c7y1cb","slide":5,"name":"text","text":"World Model v1","textPreview":"World Model v1","textChars":14,"textLines":1,"bbox":[538,246,210,58]}
+{"kind":"textbox","id":"sh/fal876tw","slide":5,"name":"text","text":"Separação explícita\nde estado, ação e dinâmica","textPreview":"Separação explícita | de estado, ação e dinâmica","textChars":46,"textLines":2,"bbox":[538,372,210,100]}
+{"kind":"shape","id":"sh/ofe94vud","slide":5,"name":"box","bbox":[878,322,20,20]}
+{"kind":"textbox","id":"sh/pgnqdgby","slide":5,"name":"text","text":"EXP‑003/004","textPreview":"EXP‑003/004","textChars":11,"textLines":1,"bbox":[782,205,210,34]}
+{"kind":"textbox","id":"sh/xwjqhg32","slide":5,"name":"text","text":"Ajustes controlados","textPreview":"Ajustes controlados","textChars":19,"textLines":1,"bbox":[782,246,210,58]}
+{"kind":"textbox","id":"sh/cvapobmh","slide":5,"name":"text","text":"Seleção em validação;\nreward com Huber + residual","textPreview":"Seleção em validação; | reward com Huber + residual","textChars":49,"textLines":2,"bbox":[782,372,210,100]}
+{"kind":"shape","id":"sh/bu18f6lw","slide":5,"name":"box","bbox":[1122,322,20,20]}
+{"kind":"textbox","id":"sh/ats7ml4b","slide":5,"name":"text","text":"EXP‑005","textPreview":"EXP‑005","textChars":7,"textLines":1,"bbox":[1026,205,210,34]}
+{"kind":"textbox","id":"sh/l03ql03e","slide":5,"name":"text","text":"Eventos + demo","textPreview":"Eventos + demo","textChars":14,"textLines":1,"bbox":[1026,246,210,58]}
+{"kind":"textbox","id":"sh/kzupsvmt","slide":5,"name":"text","text":"Heads de compra/cancelamento\ne simulador fechado","textPreview":"Heads de compra/cancelamento | e simulador fechado","textChars":48,"textLines":2,"bbox":[1026,372,210,100]}
+{"kind":"textbox","id":"sh/zyl8jql8","slide":5,"name":"text","text":"Cada etapa manteve dataset, seed, versões, métricas e artefatos de execução.","textPreview":"Cada etapa manteve dataset, seed, versões, métricas e artefatos de execução.","textChars":76,"textLines":1,"bbox":[270,550,740,52]}
+{"kind":"notes","id":"nt/gdkawl","slide":5,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/EXPERIMENTS.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/artifacts/exp-005/run_metadata.json"}
+{"kind":"slide","id":"sl/cl2747","slide":6,"title":"INSURANCE WORLD MODEL • P&D","textShapes":21}
+{"kind":"textbox","id":"sh/5oz6xofy","slide":6,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/il8nm9w7","slide":6,"name":"text","text":"A metodologia separa a verdade do simulador da previsão aprendida","textPreview":"A metodologia separa a verdade do simulador da previsão aprendida","textChars":65,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/jmhovexs","slide":6,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/wz65kjeh","slide":6,"name":"text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"textbox","id":"sh/hkz6tofm","slide":6,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,180,55,40]}
+{"kind":"textbox","id":"sh/uxoni9wb","slide":6,"name":"text","text":"Definir o mundo","textPreview":"Definir o mundo","textChars":15,"textLines":1,"bbox":[112,180,490,40]}
+{"kind":"textbox","id":"sh/vyxorexw","slide":6,"name":"text","text":"Regras causais conhecidas + ruído controlado","textPreview":"Regras causais conhecidas + ruído controlado","textChars":44,"textLines":1,"bbox":[112,224,490,56]}
+{"kind":"shape","id":"sh/0fapw3el","slide":6,"name":"rule","bbox":[42,292,550,1]}
+{"kind":"textbox","id":"sh/1gj658v6","slide":6,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[652,180,55,40]}
+{"kind":"textbox","id":"sh/to7ix0za","slide":6,"name":"text","text":"Gerar trajetórias","textPreview":"Gerar trajetórias","textChars":17,"textLines":1,"bbox":[722,180,490,40]}
+{"kind":"textbox","id":"sh/snyhovyp","slide":6,"name":"text","text":"Sₜ + Aₜ → Sₜ₊₁ + Rₜ em Parquet","textPreview":"Sₜ + Aₜ → Sₜ₊₁ + Rₜ em Parquet","textChars":30,"textLines":1,"bbox":[722,224,490,56]}
+{"kind":"shape","id":"sh/rmp0vqh4","slide":6,"name":"rule","bbox":[652,292,550,1]}
+{"kind":"textbox","id":"sh/6lgzmlgj","slide":6,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[42,325,55,40]}
+{"kind":"textbox","id":"sh/5k7it0zy","slide":6,"name":"text","text":"Bloquear vazamento","textPreview":"Bloquear vazamento","textChars":18,"textLines":1,"bbox":[112,325,490,40]}
+{"kind":"textbox","id":"sh/4jyhkvyt","slide":6,"name":"text","text":"Oracle fora do treino; split por cliente 70/15/15","textPreview":"Oracle fora do treino; split por cliente 70/15/15","textChars":49,"textLines":1,"bbox":[112,369,490,56]}
+{"kind":"shape","id":"sh/jip0rqh8","slide":6,"name":"rule","bbox":[42,437,550,1]}
+{"kind":"textbox","id":"sh/ixgzilgn","slide":6,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[652,325,55,40]}
+{"kind":"textbox","id":"sh/pgbi5kfi","slide":6,"name":"text","text":"Comparar modelos","textPreview":"Comparar modelos","textChars":16,"textLines":1,"bbox":[722,325,490,40]}
+{"kind":"textbox","id":"sh/ofi1wfyx","slide":6,"name":"text","text":"Baseline antes do world model","textPreview":"Baseline antes do world model","textChars":29,"textLines":1,"bbox":[722,369,490,56]}
+{"kind":"shape","id":"sh/8batona5","slide":6,"name":"rule","bbox":[652,437,550,1]}
+{"kind":"textbox","id":"sh/9wjuhsrq","slide":6,"name":"text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[42,470,55,40]}
+{"kind":"textbox","id":"sh/m9sbmdsf","slide":6,"name":"text","text":"Selecionar sem olhar o teste","textPreview":"Selecionar sem olhar o teste","textChars":28,"textLines":1,"bbox":[112,470,490,40]}
+{"kind":"textbox","id":"sh/na1sfi9k","slide":6,"name":"text","text":"Hiperparâmetros pela validação; teste uma vez","textPreview":"Hiperparâmetros pela validação; teste uma vez","textChars":45,"textLines":1,"bbox":[112,514,490,56]}
+{"kind":"shape","id":"sh/07atkna9","slide":6,"name":"rule","bbox":[42,582,550,1]}
+{"kind":"textbox","id":"sh/l8jad8ru","slide":6,"name":"text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[652,470,55,40]}
+{"kind":"textbox","id":"sh/y58bids3","slide":6,"name":"text","text":"Simular e confrontar","textPreview":"Simular e confrontar","textChars":20,"textLines":1,"bbox":[722,470,490,40]}
+{"kind":"textbox","id":"sh/z61sbi9o","slide":6,"name":"text","text":"Multi-step, contrafactuais e mudança de regime ainda a validar","textPreview":"Multi-step, contrafactuais e mudança de regime ainda a validar","textChars":62,"textLines":1,"bbox":[722,514,490,56]}
+{"kind":"shape","id":"sh/c3qtg3ax","slide":6,"name":"rule","bbox":[652,582,550,1]}
+{"kind":"notes","id":"nt/cl2747","slide":6,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/metodologia/preparacao-dataset-modelo.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/metodologia/treinamento-baseline-mlp.md"}
+{"kind":"slide","id":"sl/yeigld","slide":7,"title":"INSURANCE WORLD MODEL • P&D","textShapes":20}
+{"kind":"textbox","id":"sh/svit8va9","slide":7,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/rupczq9o","slide":7,"name":"text","text":"O world model combina encoders separados, dinâmica latente e saídas especializadas","textPreview":"O world model combina encoders separados, dinâmica latente e saídas especializadas","textChars":82,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/qtgb6lsj","slide":7,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/5s7ux0ry","slide":7,"name":"text","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"shape","id":"sh/4ryt4vad","slide":7,"name":"rule","bbox":[205,310,110,4]}
+{"kind":"shape","id":"sh/36pcvq9s","slide":7,"name":"rule","bbox":[445,310,110,4]}
+{"kind":"shape","id":"sh/i5gb2ls7","slide":7,"name":"rule","bbox":[685,310,110,4]}
+{"kind":"shape","id":"sh/h47utgrm","slide":7,"name":"rule","bbox":[925,310,110,4]}
+{"kind":"shape","id":"sh/g3yt0ba1","slide":7,"name":"box","bbox":[55,220,190,180]}
+{"kind":"textbox","id":"sh/6lwbml8v","slide":7,"name":"text","text":"Estado observável","textPreview":"Estado observável","textChars":17,"textLines":1,"bbox":[70,238,160,62]}
+{"kind":"textbox","id":"sh/7m5svq9g","slide":7,"name":"text","text":"idade • apólices • sinistros\nprêmio • engajamento • jornada","textPreview":"idade • apólices • sinistros | prêmio • engajamento • jornada","textChars":59,"textLines":2,"bbox":[70,310,160,70]}
+{"kind":"shape","id":"sh/s7ytovq1","slide":7,"name":"box","bbox":[295,220,190,180]}
+{"kind":"textbox","id":"sh/t87ax0rm","slide":7,"name":"text","text":"State + Action\nEncoders","textPreview":"State + Action | Encoders","textChars":23,"textLines":2,"bbox":[310,238,160,62]}
+{"kind":"textbox","id":"sh/ihwril8z","slide":7,"name":"text","text":"normalização + one-hot\nrepresentações separadas","textPreview":"normalização + one-hot | representações separadas","textChars":47,"textLines":2,"bbox":[310,310,160,70]}
+{"kind":"shape","id":"sh/ji5sr69k","slide":7,"name":"box","bbox":[535,220,190,180]}
+{"kind":"textbox","id":"sh/kje9kbq5","slide":7,"name":"text","text":"Dynamics Model","textPreview":"Dynamics Model","textChars":14,"textLines":1,"bbox":[550,238,160,62]}
+{"kind":"textbox","id":"sh/5knatgrq","slide":7,"name":"text","text":"fusão dos latentes\ne transição aprendida","textPreview":"fusão dos latentes | e transição aprendida","textChars":40,"textLines":2,"bbox":[550,310,160,70]}
+{"kind":"shape","id":"sh/adcre183","slide":7,"name":"box","bbox":[775,220,190,180]}
+{"kind":"textbox","id":"sh/velsn698","slide":7,"name":"text","text":"Decoders","textPreview":"Decoders","textChars":8,"textLines":1,"bbox":[790,238,160,62]}
+{"kind":"textbox","id":"sh/zi18v2p0","slide":7,"name":"text","text":"próximo estado • jornada\nreward • compra • cancelamento","textPreview":"próximo estado • jornada | reward • compra • cancelamento","textChars":55,"textLines":2,"bbox":[790,310,160,70]}
+{"kind":"shape","id":"sh/yhs7mxov","slide":7,"name":"box","bbox":[1015,220,190,180]}
+{"kind":"textbox","id":"sh/lkjqxc76","slide":7,"name":"text","text":"Simulator","textPreview":"Simulator","textChars":9,"textLines":1,"bbox":[1030,238,160,62]}
+{"kind":"textbox","id":"sh/0japo76l","slide":7,"name":"text","text":"rollout mensal\n+ estatísticas agregadas","textPreview":"rollout mensal | + estatísticas agregadas","textChars":39,"textLines":2,"bbox":[1030,310,160,70]}
+{"kind":"shape","id":"sh/nm18zmpc","slide":7,"name":"box","bbox":[110,465,130,36]}
+{"kind":"textbox","id":"sh/mls7qhor","slide":7,"name":"text","text":"PyTorch","textPreview":"PyTorch","textChars":7,"textLines":1,"bbox":[122,465,106,36]}
+{"kind":"shape","id":"sh/9o3q1c7i","slide":7,"name":"box","bbox":[260,465,165,36]}
+{"kind":"textbox","id":"sh/8nups76x","slide":7,"name":"text","text":"scikit-learn","textPreview":"scikit-learn","textChars":12,"textLines":1,"bbox":[272,465,141,36]}
+{"kind":"shape","id":"sh/3qhonip8","slide":7,"name":"box","bbox":[445,465,190,36]}
+{"kind":"textbox","id":"sh/2p87ed8n","slide":7,"name":"text","text":"Pandas / Parquet","textPreview":"Pandas / Parquet","textChars":16,"textLines":1,"bbox":[457,465,166,36]}
+{"kind":"shape","id":"sh/8j2d8fi9","slide":7,"name":"box","bbox":[655,465,125,36]}
+{"kind":"textbox","id":"sh/tkve1kje","slide":7,"name":"text","text":"MLflow","textPreview":"MLflow","textChars":6,"textLines":1,"bbox":[667,465,101,36]}
+{"kind":"shape","id":"sh/6hkv6p03","slide":7,"name":"box","bbox":[800,465,130,36]}
+{"kind":"textbox","id":"sh/7itwzu1o","slide":7,"name":"text","text":"FastAPI","textPreview":"FastAPI","textChars":7,"textLines":1,"bbox":[812,465,106,36]}
+{"kind":"shape","id":"sh/kv2d4fix","slide":7,"name":"box","bbox":[950,465,110,36]}
+{"kind":"textbox","id":"sh/lgbuxkji","slide":7,"name":"text","text":"pytest","textPreview":"pytest","textChars":6,"textLines":1,"bbox":[962,465,86,36]}
+{"kind":"textbox","id":"sh/ytkv250r","slide":7,"name":"text","text":"O ambiente sintético gera a ground truth; o simulador da demo usa exclusivamente o checkpoint EXP‑005.","textPreview":"O ambiente sintético gera a ground truth; o simulador da demo usa exclusivamente o checkpoint EXP‑005.","textChars":102,"textLines":1,"bbox":[150,555,980,52]}
+{"kind":"notes","id":"nt/yeigld","slide":7,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/model/world_model.py\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/model/encoder.py\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/simulation/simulator.py\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/api/app.py\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/requirements.txt"}
+{"kind":"slide","id":"sl/b27rq4","slide":8,"title":"INSURANCE WORLD MODEL • P&D","textShapes":9}
+{"kind":"textbox","id":"sh/ixo3epcb","slide":8,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/5kf2pkv2","slide":8,"name":"text","text":"O EXP‑005 melhora transição, jornada e reward — mas a comparação exige nuance","textPreview":"O EXP‑005 melhora transição, jornada e reward — mas a comparação exige nuance","textChars":77,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/kj6lgfuh","slide":8,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/vuxkjadk","slide":8,"name":"text","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"shape","id":"sh/xwf2lkvq","slide":8,"name":"box","bbox":[790,190,410,118]}
+{"kind":"textbox","id":"sh/wv6lcfu5","slide":8,"name":"text","text":"+4,0 p.p.","textPreview":"+4,0 p.p.","textChars":9,"textLines":1,"bbox":[815,205,360,50]}
+{"kind":"textbox","id":"sh/fqh4ved4","slide":8,"name":"text","text":"acurácia de jornada vs. baseline","textPreview":"acurácia de jornada vs. baseline","textChars":32,"textLines":1,"bbox":[815,253,360,34]}
+{"kind":"shape","id":"sh/up83m9cj","slide":8,"name":"box","bbox":[790,330,410,118]}
+{"kind":"textbox","id":"sh/8nqd07yl","slide":8,"name":"text","text":"−15,1%","textPreview":"−15,1%","textChars":6,"textLines":1,"bbox":[815,345,360,50]}
+{"kind":"textbox","id":"sh/9ozetcz6","slide":8,"name":"text","text":"erro absoluto de reward vs. baseline","textPreview":"erro absoluto de reward vs. baseline","textChars":36,"textLines":1,"bbox":[815,393,360,34]}
+{"kind":"textbox","id":"sh/mlovyxgf","slide":8,"name":"text","text":"Leitura correta","textPreview":"Leitura correta","textChars":15,"textLines":1,"bbox":[790,480,410,30]}
+{"kind":"textbox","id":"sh/nmhwr2h0","slide":8,"name":"text","text":"Resultados held-out são promissores dentro do mesmo mundo sintético. Eles não demonstram desempenho com clientes reais nem robustez fora da distribuição.","textPreview":"Resultados held-out são promissores dentro do mesmo mundo sintético. Eles não demonstram desempenho com clientes reais nem robustez fora ...","textChars":153,"textLines":1,"bbox":[790,520,410,105]}
+{"kind":"chart","id":"ch/6t47m5cf","slide":8,"name":"","chartType":"bar","bbox":[45,190,690,410]}
+{"kind":"notes","id":"nt/b27rq4","slide":8,"text":"Erro de jornada = 100% − acurácia. Valores calculados diretamente das métricas registradas.\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/artifacts/exp-001/test_metrics.json\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/artifacts/exp-005/test_metrics.json"}
+{"kind":"slide","id":"sl/b9ui31","slide":9,"title":"INSURANCE WORLD MODEL • P&D","textShapes":19}
+{"kind":"textbox","id":"sh/v6xorils","slide":9,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/w7qpkn2d","slide":9,"name":"text","text":"As decisões tomadas reduziram risco de interpretação e de engenharia","textPreview":"As decisões tomadas reduziram risco de interpretação e de engenharia","textChars":68,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/hszqts3i","slide":9,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/m1o7edkv","slide":9,"name":"text","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"shape","id":"sh/72xonilg","slide":9,"name":"box","bbox":[42,170,560,98]}
+{"kind":"textbox","id":"sh/836pg321","slide":9,"name":"text","text":"Baseline primeiro","textPreview":"Baseline primeiro","textChars":17,"textLines":1,"bbox":[62,182,210,30]}
+{"kind":"textbox","id":"sh/94f6p83m","slide":9,"name":"text","text":"Evita atribuir ao world model ganhos que uma MLP simples já entrega.","textPreview":"Evita atribuir ao world model ganhos que uma MLP simples já entrega.","textChars":68,"textLines":1,"bbox":[282,180,300,76]}
+{"kind":"shape","id":"sh/qx87qxkf","slide":9,"name":"box","bbox":[652,170,560,98]}
+{"kind":"textbox","id":"sh/ry18z2l0","slide":9,"name":"text","text":"Oracle bloqueado","textPreview":"Oracle bloqueado","textChars":16,"textLines":1,"bbox":[672,182,210,30]}
+{"kind":"textbox","id":"sh/nydo3ud0","slide":9,"name":"text","text":"Variáveis latentes ficam disponíveis para ciência, não para treinar.","textPreview":"Variáveis latentes ficam disponíveis para ciência, não para treinar.","textChars":68,"textLines":1,"bbox":[892,180,300,76]}
+{"kind":"shape","id":"sh/mx47a9cf","slide":9,"name":"box","bbox":[42,290,560,98]}
+{"kind":"textbox","id":"sh/9kv654v6","slide":9,"name":"text","text":"Split por cliente","textPreview":"Split por cliente","textChars":17,"textLines":1,"bbox":[62,302,210,30]}
+{"kind":"textbox","id":"sh/ojmpczul","slide":9,"name":"text","text":"A mesma trajetória individual não vaza entre treino, validação e teste.","textPreview":"A mesma trajetória individual não vaza entre treino, validação e teste.","textChars":71,"textLines":1,"bbox":[282,300,300,76]}
+{"kind":"shape","id":"sh/bmdo7edc","slide":9,"name":"box","bbox":[652,290,560,98]}
+{"kind":"textbox","id":"sh/al47e9cr","slide":9,"name":"text","text":"Teste preservado","textPreview":"Teste preservado","textChars":16,"textLines":1,"bbox":[672,302,210,30]}
+{"kind":"textbox","id":"sh/xof69ov2","slide":9,"name":"text","text":"EXP‑003 escolhe candidatos pela validação e confirma apenas o vencedor.","textPreview":"EXP‑003 escolhe candidatos pela validação e confirma apenas o vencedor.","textChars":71,"textLines":1,"bbox":[892,300,300,76]}
+{"kind":"shape","id":"sh/wn6pgjuh","slide":9,"name":"box","bbox":[42,410,560,98]}
+{"kind":"textbox","id":"sh/jqx8byd8","slide":9,"name":"text","text":"Reward redefinido","textPreview":"Reward redefinido","textChars":17,"textLines":1,"bbox":[62,422,210,30]}
+{"kind":"textbox","id":"sh/ypo7itcn","slide":9,"name":"text","text":"Huber e maior peso reduziram erro sem declarar vitória total prematura.","textPreview":"Huber e maior peso reduziram erro sem declarar vitória total prematura.","textChars":71,"textLines":1,"bbox":[282,420,300,76]}
+{"kind":"shape","id":"sh/exsjqh07","slide":9,"name":"box","bbox":[652,410,560,98]}
+{"kind":"textbox","id":"sh/fy10zm1s","slide":9,"name":"text","text":"Semântica da demo","textPreview":"Semântica da demo","textChars":17,"textLines":1,"bbox":[672,422,210,30]}
+{"kind":"textbox","id":"sh/gzu1srid","slide":9,"name":"text","text":"“Trajetórias”, não “clientes impactados”; exposição, não receita realizada.","textPreview":"“Trajetórias”, não “clientes impactados”; exposição, não receita realizada.","textChars":75,"textLines":1,"bbox":[892,420,300,76]}
+{"kind":"shape","id":"sh/1k3i1wji","slide":9,"name":"box","bbox":[42,530,560,98]}
+{"kind":"textbox","id":"sh/6tsjmh0v","slide":9,"name":"text","text":"Métrica removida","textPreview":"Métrica removida","textChars":16,"textLines":1,"bbox":[62,542,210,30]}
+{"kind":"textbox","id":"sh/ru10v21g","slide":9,"name":"text","text":"Prêmio mensal ativo médio saiu porque induzia uma leitura de carteira.","textPreview":"Prêmio mensal ativo médio saiu porque induzia uma leitura de carteira.","textChars":70,"textLines":1,"bbox":[282,540,300,76]}
+{"kind":"shape","id":"sh/sva1o7i1","slide":9,"name":"box","bbox":[652,530,560,98]}
+{"kind":"textbox","id":"sh/twjixcjm","slide":9,"name":"text","text":"Domínio fechado","textPreview":"Domínio fechado","textChars":15,"textLines":1,"bbox":[672,542,210,30]}
+{"kind":"textbox","id":"sh/qpcjy10f","slide":9,"name":"text","text":"Perfis, produtos, canais e preços limitados para evitar extrapolação silenciosa.","textPreview":"Perfis, produtos, canais e preços limitados para evitar extrapolação silenciosa.","textChars":80,"textLines":1,"bbox":[892,540,300,76]}
+{"kind":"notes","id":"nt/b9ui31","slide":9,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/artifacts/exp-003/optimization_report.json\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/api/app.py\n- Codex task: Criar ambiente sintético de seguros"}
+{"kind":"slide","id":"sl/57wpin","slide":10,"title":"INSURANCE WORLD MODEL • P&D","textShapes":30}
+{"kind":"textbox","id":"sh/ihgzelgr","slide":10,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/5k7y9gfi","slide":10,"name":"text","text":"Overfitting aqui não é apenas memorizar linhas — é aprender o mundo que nós inventamos","textPreview":"Overfitting aqui não é apenas memorizar linhas — é aprender o mundo que nós inventamos","textChars":86,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/4jyhgbyx","slide":10,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/ve5g36x0","slide":10,"name":"text","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"textbox","id":"sh/udwza1gv","slide":10,"name":"text","text":"Onde ele pode ocorrer","textPreview":"Onde ele pode ocorrer","textChars":21,"textLines":1,"bbox":[42,190,500,34]}
+{"kind":"textbox","id":"sh/hg7y5gf6","slide":10,"name":"text","text":"×","textPreview":"×","textChars":1,"textLines":1,"bbox":[45,238,34,35]}
+{"kind":"textbox","id":"sh/gfyhcbyl","slide":10,"name":"text","text":"Ajuste ao dataset","textPreview":"Ajuste ao dataset","textChars":17,"textLines":1,"bbox":[90,238,200,32]}
+{"kind":"textbox","id":"sh/7q5gzmx4","slide":10,"name":"text","text":"Mesmo seed, regras e distribuição favorecem padrões repetidos.","textPreview":"Mesmo seed, regras e distribuição favorecem padrões repetidos.","textChars":62,"textLines":1,"bbox":[295,238,275,58]}
+{"kind":"textbox","id":"sh/mpwf6hgj","slide":10,"name":"text","text":"×","textPreview":"×","textChars":1,"textLines":1,"bbox":[45,331,34,35]}
+{"kind":"textbox","id":"sh/8bipgj25","slide":10,"name":"text","text":"Ajuste à validação","textPreview":"Ajuste à validação","textChars":18,"textLines":1,"bbox":[90,331,200,32]}
+{"kind":"textbox","id":"sh/9crq9o3q","slide":10,"name":"text","text":"Muitos ciclos de tuning transformam validação em teste informal.","textPreview":"Muitos ciclos de tuning transformam validação em teste informal.","textChars":64,"textLines":1,"bbox":[295,331,275,58]}
+{"kind":"textbox","id":"sh/m907e94z","slide":10,"name":"text","text":"×","textPreview":"×","textChars":1,"textLines":1,"bbox":[45,424,34,35]}
+{"kind":"textbox","id":"sh/7a987elk","slide":10,"name":"text","text":"Ajuste ao simulador","textPreview":"Ajuste ao simulador","textChars":19,"textLines":1,"bbox":[90,424,200,32]}
+{"kind":"textbox","id":"sh/k7ipcjm9","slide":10,"name":"text","text":"Ótima fidelidade à v0.1 pode não transferir para o mundo real.","textPreview":"Ótima fidelidade à v0.1 pode não transferir para o mundo real.","textChars":62,"textLines":1,"bbox":[295,424,275,58]}
+{"kind":"textbox","id":"sh/l8rq5o3e","slide":10,"name":"text","text":"×","textPreview":"×","textChars":1,"textLines":1,"bbox":[45,517,34,35]}
+{"kind":"textbox","id":"sh/y507a943","slide":10,"name":"text","text":"Erro acumulado","textPreview":"Erro acumulado","textChars":14,"textLines":1,"bbox":[90,517,200,32]}
+{"kind":"textbox","id":"sh/z69o3elo","slide":10,"name":"text","text":"Pequenos vieses one-step crescem em rollouts de 12–24 meses.","textPreview":"Pequenos vieses one-step crescem em rollouts de 12–24 meses.","textChars":60,"textLines":1,"bbox":[295,517,275,58]}
+{"kind":"shape","id":"sh/432po32d","slide":10,"name":"box","bbox":[650,190,550,390]}
+{"kind":"textbox","id":"sh/54vqh83y","slide":10,"name":"text","text":"Como controlar","textPreview":"Como controlar","textChars":14,"textLines":1,"bbox":[685,220,470,40]}
+{"kind":"textbox","id":"sh/dkrq18v2","slide":10,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[685,282,42,30]}
+{"kind":"textbox","id":"sh/sjip83uh","slide":10,"name":"text","text":"Holdout temporal e por coorte","textPreview":"Holdout temporal e por coorte","textChars":29,"textLines":1,"bbox":[738,278,400,36]}
+{"kind":"textbox","id":"sh/ryp8zydw","slide":10,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[685,326,42,30]}
+{"kind":"textbox","id":"sh/qxg76tcb","slide":10,"name":"text","text":"Seeds, dinâmicas e populações novas","textPreview":"Seeds, dinâmicas e populações novas","textChars":35,"textLines":1,"bbox":[738,322,400,36]}
+{"kind":"textbox","id":"sh/5w7qxovq","slide":10,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[685,370,42,30]}
+{"kind":"textbox","id":"sh/4vyp4jul","slide":10,"name":"text","text":"Teste de ações/preços não observados","textPreview":"Teste de ações/preços não observados","textChars":36,"textLines":1,"bbox":[738,366,400,36]}
+{"kind":"textbox","id":"sh/3upovyd0","slide":10,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[685,414,42,30]}
+{"kind":"textbox","id":"sh/itg72tcf","slide":10,"name":"text","text":"Curvas de calibração por evento","textPreview":"Curvas de calibração por evento","textChars":31,"textLines":1,"bbox":[738,410,400,36]}
+{"kind":"textbox","id":"sh/hs76tovu","slide":10,"name":"text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[685,458,42,30]}
+{"kind":"textbox","id":"sh/grep0ju9","slide":10,"name":"text","text":"Métrica por horizonte, não só one-step","textPreview":"Métrica por horizonte, não só one-step","textChars":38,"textLines":1,"bbox":[738,454,400,36]}
+{"kind":"textbox","id":"sh/mlsvelov","slide":10,"name":"text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[685,502,42,30]}
+{"kind":"textbox","id":"sh/nm1wnqpg","slide":10,"name":"text","text":"Comparação contínua com baseline e oracle","textPreview":"Comparação contínua com baseline e oracle","textChars":41,"textLines":1,"bbox":[738,498,400,36]}
+{"kind":"textbox","id":"sh/8nudgv61","slide":10,"name":"text","text":"Regra de decisão: nenhum resultado sintético deve ser traduzido diretamente em impacto comercial.","textPreview":"Regra de decisão: nenhum resultado sintético deve ser traduzido diretamente em impacto comercial.","textChars":97,"textLines":1,"bbox":[650,605,550,40]}
+{"kind":"notes","id":"nt/57wpin","slide":10,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/metodologia/treinamento-baseline-mlp.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md"}
+{"kind":"slide","id":"sl/thwf3a","slide":11,"title":"INSURANCE WORLD MODEL • P&D","textShapes":31}
+{"kind":"textbox","id":"sh/9kba1476","slide":11,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/mhkrqp8f","slide":11,"name":"text","text":"A demo é uma ferramenta de P&D; seus limites precisam acompanhar cada resultado","textPreview":"A demo é uma ferramenta de P&D; seus limites precisam acompanhar cada resultado","textChars":79,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/7itszup0","slide":11,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/kv29ozq9","slide":11,"name":"text","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"textbox","id":"sh/lwbax47u","slide":11,"name":"text","text":"O que não podemos afirmar","textPreview":"O que não podemos afirmar","textChars":25,"textLines":1,"bbox":[42,185,500,38]}
+{"kind":"textbox","id":"sh/yt0rmp8j","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,240,30,30]}
+{"kind":"textbox","id":"sh/zu9svup4","slide":11,"name":"text","text":"Sem dados reais ou validação externa","textPreview":"Sem dados reais ou validação externa","textChars":36,"textLines":1,"bbox":[82,236,500,38]}
+{"kind":"textbox","id":"sh/4rmt0jqt","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,288,30,30]}
+{"kind":"textbox","id":"sh/5cva9o7e","slide":11,"name":"text","text":"Sem causalidade comprovada no negócio","textPreview":"Sem causalidade comprovada no negócio","textChars":37,"textLines":1,"bbox":[82,284,500,38]}
+{"kind":"textbox","id":"sh/hcvqdgna","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,336,30,30]}
+{"kind":"textbox","id":"sh/wbm9kbmp","slide":11,"name":"text","text":"Sem incerteza epistemológica explícita","textPreview":"Sem incerteza epistemológica explícita","textChars":38,"textLines":1,"bbox":[82,332,500,38]}
+{"kind":"textbox","id":"sh/vad8b654","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,384,30,30]}
+{"kind":"textbox","id":"sh/u94ri14j","slide":11,"name":"text","text":"Sem sazonalidade robusta: apenas 12 meses","textPreview":"Sem sazonalidade robusta: apenas 12 meses","textChars":41,"textLines":1,"bbox":[82,380,500,38]}
+{"kind":"textbox","id":"sh/98vq9gny","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,432,30,30]}
+{"kind":"textbox","id":"sh/8729gbmt","slide":11,"name":"text","text":"Sem teste concluído de mudança de regime","textPreview":"Sem teste concluído de mudança de regime","textChars":40,"textLines":1,"bbox":[82,428,500,38]}
+{"kind":"textbox","id":"sh/76t87658","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,480,30,30]}
+{"kind":"textbox","id":"sh/m5kre14n","slide":11,"name":"text","text":"Reward sintético ≠ margem, receita ou LTV","textPreview":"Reward sintético ≠ margem, receita ou LTV","textChars":41,"textLines":1,"bbox":[82,476,500,38]}
+{"kind":"textbox","id":"sh/d4fal03i","slide":11,"name":"text","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[45,528,30,30]}
+{"kind":"textbox","id":"sh/s369svmx","slide":11,"name":"text","text":"Trajetórias ≠ número de clientes impactados","textPreview":"Trajetórias ≠ número de clientes impactados","textChars":43,"textLines":1,"bbox":[82,524,500,38]}
+{"kind":"shape","id":"sh/c7etoju9","slide":11,"name":"box","bbox":[650,185,550,385]}
+{"kind":"textbox","id":"sh/d8nuh4be","slide":11,"name":"text","text":"O que já podemos afirmar","textPreview":"O que já podemos afirmar","textChars":24,"textLines":1,"bbox":[685,215,480,38]}
+{"kind":"textbox","id":"sh/qlwbm9c3","slide":11,"name":"text","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[685,272,30,30]}
+{"kind":"textbox","id":"sh/bm5sfeto","slide":11,"name":"text","text":"Pipeline reproduzível de ambiente → dados → treino → avaliação","textPreview":"Pipeline reproduzível de ambiente → dados → treino → avaliação","textChars":62,"textLines":1,"bbox":[725,268,440,38]}
+{"kind":"textbox","id":"sh/ojetkzux","slide":11,"name":"text","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[685,319,30,30]}
+{"kind":"textbox","id":"sh/pknad4bi","slide":11,"name":"text","text":"Arquitetura explícita para estado, ação e dinâmica","textPreview":"Arquitetura explícita para estado, ação e dinâmica","textChars":50,"textLines":1,"bbox":[725,315,440,38]}
+{"kind":"textbox","id":"sh/2hcbipcr","slide":11,"name":"text","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[685,366,30,30]}
+{"kind":"textbox","id":"sh/3ilsbutc","slide":11,"name":"text","text":"Separação técnica entre ground truth e previsão","textPreview":"Separação técnica entre ground truth e previsão","textChars":47,"textLines":1,"bbox":[725,362,440,38]}
+{"kind":"textbox","id":"sh/gfutgfu1","slide":11,"name":"text","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[685,413,30,30]}
+{"kind":"textbox","id":"sh/1g3a9kb6","slide":11,"name":"text","text":"Métricas held-out e rastreamento de experimentos","textPreview":"Métricas held-out e rastreamento de experimentos","textChars":48,"textLines":1,"bbox":[725,409,440,38]}
+{"kind":"textbox","id":"sh/ja1czax8","slide":11,"name":"text","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[685,460,30,30]}
+{"kind":"textbox","id":"sh/i9sbqpwn","slide":11,"name":"text","text":"Simulação multi-step fechada com checkpoint EXP‑005","textPreview":"Simulação multi-step fechada com checkpoint EXP‑005","textChars":51,"textLines":1,"bbox":[725,456,440,38]}
+{"kind":"textbox","id":"sh/5c3u1kfe","slide":11,"name":"text","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[685,507,30,30]}
+{"kind":"textbox","id":"sh/kbatsfet","slide":11,"name":"text","text":"Interface didática com linguagem e controles revisados","textPreview":"Interface didática com linguagem e controles revisados","textChars":54,"textLines":1,"bbox":[725,503,440,38]}
+{"kind":"notes","id":"nt/thwf3a","slide":11,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/README.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/simulation/README.md"}
+{"kind":"slide","id":"sl/urbt2d","slide":12,"title":"INSURANCE WORLD MODEL • P&D","textShapes":16}
+{"kind":"textbox","id":"sh/nmt8vu9s","slide":12,"name":"text","text":"INSURANCE WORLD MODEL • P&D","textPreview":"INSURANCE WORLD MODEL • P&D","textChars":27,"textLines":1,"bbox":[42,26,650,28]}
+{"kind":"textbox","id":"sh/on29ozad","slide":12,"name":"text","text":"Próximo marco: transformar a prova técnica em evidência de generalização","textPreview":"Próximo marco: transformar a prova técnica em evidência de generalização","textChars":72,"textLines":1,"bbox":[42,62,1160,86]}
+{"kind":"shape","id":"sh/9obqxkry","slide":12,"name":"rule","bbox":[42,151,1196,1]}
+{"kind":"textbox","id":"sh/apkrqpsj","slide":12,"name":"text","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1190,672,48,20]}
+{"kind":"textbox","id":"sh/bqt8zu9o","slide":12,"name":"text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[42,180,55,55]}
+{"kind":"textbox","id":"sh/wb29sza9","slide":12,"name":"text","text":"Versionar","textPreview":"Versionar","textChars":9,"textLines":1,"bbox":[115,180,230,40]}
+{"kind":"textbox","id":"sh/xcba14ru","slide":12,"name":"text","text":"Levar o código validado ao repo do projeto, com commits por experimento.","textPreview":"Levar o código validado ao repo do projeto, com commits por experimento.","textChars":72,"textLines":1,"bbox":[360,180,780,58]}
+{"kind":"shape","id":"sh/idkru9sf","slide":12,"name":"rule","bbox":[115,255,1025,1]}
+{"kind":"textbox","id":"sh/jeds3e90","slide":12,"name":"text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[42,280,55,55]}
+{"kind":"textbox","id":"sh/zepwbexk","slide":12,"name":"text","text":"Stress-test","textPreview":"Stress-test","textChars":11,"textLines":1,"bbox":[115,280,230,40]}
+{"kind":"textbox","id":"sh/ydwv29gz","slide":12,"name":"text","text":"Novas seeds, populações, preços e regras; medir degradação por horizonte.","textPreview":"Novas seeds, populações, preços e regras; medir degradação por horizonte.","textChars":73,"textLines":1,"bbox":[360,280,780,58]}
+{"kind":"shape","id":"sh/lg7edofq","slide":12,"name":"rule","bbox":[115,355,1025,1]}
+{"kind":"textbox","id":"sh/kfyd4jy5","slide":12,"name":"text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[42,380,55,55]}
+{"kind":"textbox","id":"sh/ba5w7exo","slide":12,"name":"text","text":"Contrafactuais","textPreview":"Contrafactuais","textChars":14,"textLines":1,"bbox":[115,380,230,40]}
+{"kind":"textbox","id":"sh/a9wvy9g3","slide":12,"name":"text","text":"Mesmo estado inicial, ações alternativas, comparação com o oracle.","textPreview":"Mesmo estado inicial, ações alternativas, comparação com o oracle.","textChars":66,"textLines":1,"bbox":[360,380,780,58]}
+{"kind":"shape","id":"sh/xcne9ofe","slide":12,"name":"rule","bbox":[115,455,1025,1]}
+{"kind":"textbox","id":"sh/cbed0jyt","slide":12,"name":"text","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[42,480,55,55]}
+{"kind":"textbox","id":"sh/v69wjyxs","slide":12,"name":"text","text":"Ponte para dados reais","textPreview":"Ponte para dados reais","textChars":22,"textLines":1,"bbox":[115,480,230,40]}
+{"kind":"textbox","id":"sh/u50fatg7","slide":12,"name":"text","text":"Definir schema, governança, privacidade e protocolo de validação offline.","textPreview":"Definir schema, governança, privacidade e protocolo de validação offline.","textChars":73,"textLines":1,"bbox":[360,480,780,58]}
+{"kind":"shape","id":"sh/61kz2x0f","slide":12,"name":"rule","bbox":[115,555,1025,1]}
+{"kind":"shape","id":"sh/r2tgb2h0","slide":12,"name":"box","bbox":[42,600,1158,52]}
+{"kind":"textbox","id":"sh/s32h47il","slide":12,"name":"text","text":"Decisão solicitada: aprovar o próximo ciclo de validação — não um uso produtivo do modelo.","textPreview":"Decisão solicitada: aprovar o próximo ciclo de validação — não um uso produtivo do modelo.","textChars":90,"textLines":1,"bbox":[65,600,1110,52]}
+{"kind":"notes","id":"nt/urbt2d","slide":12,"text":"\n\n[Sources]\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/PROJECT_SPEC.md\n- C:/Users/t-gamer/Documents/Codex/2026-09-01/files-pasted-by-the-user-projeto/insurance-world-model/EXPERIMENTS.md"}
